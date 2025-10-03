@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pham Tien Dat</h1>
+<p align="center">
+  <img src="Background.png" alt="My Banner" width="600"/>
+</p>
 <h3 align="center">A passionate Embedded Developer from Danang, Vietnam</h3>
 
 <p align="center">
