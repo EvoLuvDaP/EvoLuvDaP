@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Background.png" alt="My Banner" width="600"/>
+  <img src="Background.png" alt="My Banner" width="100%"/>
 </p>
 <h3 align="center">A passionate Embedded Developer from Danang, Vietnam</h3>
 
