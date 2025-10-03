@@ -8,14 +8,6 @@
 </p>
 
 - 📫 How to reach me: **ptdat0410@gmail.com**  
-- 📞 Contact number: **0932414867**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/pham tien dat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pham tien dat" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
