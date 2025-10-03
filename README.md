@@ -31,7 +31,7 @@
   <img src="assets/stm32.png" alt="STM32" width="40" height="40">
 </a>
 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="120" height="80"/></a>
 </p>
 
 ---
