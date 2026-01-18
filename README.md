@@ -60,9 +60,10 @@
   </a>
 
   <!-- STM32: use a local asset if you prefer, replace RAW_GITHUB_URL with your raw file link -->
-  <a href="#" target="_blank" rel="noreferrer" title="STM32">
-    <img src="https://raw.githubusercontent.com/RAW_GITHUB_URL/assets/stm32.png" alt="STM32" style="height:24px" />
-  </a>
+<a href="https://www.st.com/" target="_blank" rel="noreferrer" title="STM32">
+  <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=ffffff" alt="STM32" />
+</a>
+
 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=ffffff" alt="Arduino" />
