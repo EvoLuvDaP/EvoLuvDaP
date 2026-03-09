@@ -76,6 +76,6 @@
 
 <!-- Stats and Most Used Languages side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evoluvdap&show_icons=true&locale=en" alt="evoluvdap" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evoluvdap&layout=compact&langs_count=8" alt="most used languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=evoluvdap&show_icons=true&locale=en&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evoluvdap&layout=compact&langs_count=8&cache_seconds=1800" height="180"/>
 </p>
